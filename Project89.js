@@ -5,5 +5,6 @@ function addUser(){
     localStorage.setItem("player2" ,player2_name);
     window.location="output.html";
 }
-player1_score = 0;
-player2_score = 0;
+
+
+ 
