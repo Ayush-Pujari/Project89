@@ -39,3 +39,10 @@ padding: 10px;
 float: none;
 text-align: left;
 }
+#number1{
+	-webkit-text-security: disc;
+}
+#number2{
+	-webkit-text-security: disc;
+
+}
